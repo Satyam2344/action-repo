@@ -3,5 +3,5 @@ const product = {
     "rating": 4,
     "tag": "deal of the day",
     "price": 250,
-    "discount": "25%",
+    "discount": "20%",
 }
