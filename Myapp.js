@@ -6,9 +6,6 @@ const Myapp = () => {
 
     const change = (event) => {
         setVal(event.target.value);
-
-
-        
         refElem.current = refElem.current +  1 
         // console.log(refElem.current);
     
