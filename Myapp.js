@@ -10,6 +10,7 @@ const Myapp = () => {
     
 
     const change = (event) => {
+        
         setVal(event.target.value); 
         
         
